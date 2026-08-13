@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0412-fizz-buzz) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kavyaspoorthi7/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavyaspoorthi7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0412-fizz-buzz) |
 | [1140-stone-game-ii](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1510-stone-game-iv) |
 | [2235-add-two-integers](https://github.com/kavyaspoorthi7/LeetCode/tree/master/2235-add-two-integers) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kavyaspoorthi7/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
