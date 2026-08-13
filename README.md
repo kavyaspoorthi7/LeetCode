@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1510-stone-game-iv) |
+| [2235-add-two-integers](https://github.com/kavyaspoorthi7/LeetCode/tree/master/2235-add-two-integers) |
 ## Minimax
 |  |
 | ------- |
