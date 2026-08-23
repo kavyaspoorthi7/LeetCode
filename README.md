@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0709-to-lower-case) |
+| [1927-sum-game](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kavyaspoorthi7/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kavyaspoorthi7/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavyaspoorthi7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kavyaspoorthi7/LeetCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kavyaspoorthi7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kavyaspoorthi7/LeetCode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/kavyaspoorthi7/LeetCode/tree/master/2235-add-two-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavyaspoorthi7/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kavyaspoorthi7/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
