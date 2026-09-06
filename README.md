@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0709-to-lower-case) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1563-stone-game-v) |
