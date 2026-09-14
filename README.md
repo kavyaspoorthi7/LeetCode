@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1563-stone-game-v) |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/kavyaspoorthi7/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
