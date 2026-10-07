@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0709-to-lower-case) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kavyaspoorthi7/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/kavyaspoorthi7/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kavyaspoorthi7/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
